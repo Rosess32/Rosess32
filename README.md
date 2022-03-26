@@ -1,6 +1,6 @@
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 💻   C++ | C#
 🌐   HTML
 
