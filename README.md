@@ -12,4 +12,4 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rosess32&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][Discord]
+[<img align="left" height="32" width="32" src="https://www.hxroleplay.net/images/xdc.png.pagespeed.ic.0kkgo3RHps.webp" />][Discord]
